@@ -23,7 +23,7 @@ For our list of supported commands and cipher, please see the documentation belo
 
 **Set up an API Token**
 
-- Now, you need to generate an `APIKEY` with **BotFather** on Telegram, and paste it into the `TOKEN` variable inside `encryptus/bot.py`.
+- Generate an `APIKEY` with **BotFather** on Telegram, and paste it into the `TOKEN` variable inside `encryptus/bot.py`.
 
 **Finally, Run The Bot!**
 
