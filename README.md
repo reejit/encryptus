@@ -27,7 +27,7 @@ And finally, run the bot!
 
 ## Feature Requests & Issue Reports
 
-Please review the [templates](https://github.com/r0eilevi/encryptus/.github)
+Please review the [templates](https://github.com/r0eilevi/encryptus/.github) located in the ***.github*** folder.
   
   
 
