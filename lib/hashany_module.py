@@ -1,4 +1,4 @@
-# Thanks for https://hashtoolkit.com/decrypt-hash/
+# Thanks for https://hashtoolkit.com
 import requests
 from typing import Union
 from bs4 import BeautifulSoup
