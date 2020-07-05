@@ -1,6 +1,8 @@
-# encryptus (Beta)
+# encryptus
 
 **encrypus Is currently not running until I find a host.**
+
+Note: If you want more ciphers or anything else, upload a future request (:
 
 ## Overview
 
