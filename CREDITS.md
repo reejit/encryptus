@@ -9,3 +9,11 @@
 - Jokes
 
 **Thanks for [Best Life Online](https://bestlifeonline.com)**, *Today's men and women are smart, sophisticated, discriminating—and don't have time to waste on things that aren't the absolute best. Their brand is Best Life. Their website is BestLifeOnline.com.*
+
+- Encode/Decode Caesar Cipher
+
+**Thanks for [dcode.fr](https://www.dcode.fr)**, *dCode offers tools to win for sure.*
+
+- Hashes
+
+**Thanks for [hash tool kit](https://hashtoolkit.com/)**, *Hash Toolkit Hash Decrypter enables you to decrypt / reverse a hash in various formats into their original text.*
