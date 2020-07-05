@@ -9,23 +9,23 @@ For our list of supported commands and cipher, please see the documentation belo
 
 ## Installation
 
-Clone the repository.
+**Clone the repository.**
 
-`git clone https://github.com/r0eilevi/encryptus`
+- `git clone https://github.com/r0eilevi/encryptus`
 
-Change Directory to the repo directory
+**Change Directory to the repo directory**
 
-`cd encryptus/`
+- `cd encryptus/`
 
-Install the requirements in order to run the bot
+**Install the requirements in order to run the bot**
 
-`pip3 install -r requirements.txt`
+- `pip3 install -r requirements.txt`
 
 Now, you need to generate an `APIKEY` with **BotFather** on Telegram, and paste it into the `TOKEN` variable inside `encryptus/bot.py`.
 
-And finally, run the bot!
+**Finally, Run The Bot!**
 
-`python3 main.py`
+- `python3 main.py`
 
 ## Documentation
 
