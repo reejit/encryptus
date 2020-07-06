@@ -33,11 +33,11 @@ For our list of supported commands and cipher, please see the documentation belo
 
 ## Documentation
 
-`encryptus`'s [documentation](https://github.com/r0eilevi/encryptus/docs)
+`encryptus`'s [documentation](https://github.com/r0eilevi/encryptus/tree/master/docs)
 
 ## Feature Requests & Issue Reports
 
-Please review the [templates](https://github.com/r0eilevi/encryptus/.github) located in the ***.github*** folder.
+Please review the [templates](https://github.com/r0eilevi/encryptus/tree/master/.github) located in the ***.github*** folder.
   
   
 
